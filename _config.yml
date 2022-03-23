@@ -31,6 +31,8 @@ github_username:  dylanm312
 
 timezone: America/Los_Angeles
 
+google_analytics: G-V9P328DRSR
+
 # Build settings
 theme: minima
 plugins:
