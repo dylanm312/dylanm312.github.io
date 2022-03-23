@@ -29,10 +29,16 @@ url: "https://dylanmoreland.com" # the base hostname & protocol for your site, e
 twitter_username: dylanmoreland_
 github_username:  dylanm312
 
+timezone: America/Los_Angeles
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Runtime settings
+livereload: true
+open_url: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
