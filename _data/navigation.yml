@@ -1,3 +1,9 @@
 header_menu:
   - title: about
-    url: about.md
+    url: /about
+
+  - title: resumé
+    url: /assets/Dylan Moreland Resumé.pdf
+
+  - title: public key
+    url: https://keys.openpgp.org/vks/v1/by-fingerprint/02228C25DF071C91984CF22EB42916DBD1776FE8
