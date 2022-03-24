@@ -42,6 +42,16 @@ plugins:
 livereload: true
 open_url: true
 
+# Default frontmatter
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Dylan Moreland"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
