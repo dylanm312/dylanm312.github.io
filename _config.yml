@@ -22,7 +22,7 @@ title: Dylan Moreland
 email: dylan.c.moreland@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Dylan Moreland. I'm an industrial engineer, programmer,
-  musician, and soon-to-be college graduate from Cal Poly, SLO. Here's a
+  musician, and recent college graduate from Cal Poly, SLO. Here's a
   little bit more about me, my journey through life, and projects I'm working on.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dylanmoreland.com" # the base hostname & protocol for your site, e.g. http://example.com
