@@ -16,7 +16,9 @@ This time, they're asking for:
 The good news is that this time around, I already have a neurologist (at PAMF)
 and an neuropsychologist (Dr. Drag in Los Gatos) ready and willing to get me the
 testing the FAA needs. So I can skip the month-long search for a provider that I
-had to do the first time.
+had to do the first time. I don't want to get my hopes up, but it looks like
+my medical is within reach! (to the tune of several months and another $4500, of
+course. Can we expect anything less from the FAA?)
 
 # Total Costs So Far (Estimated)
 
