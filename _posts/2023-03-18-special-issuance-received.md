@@ -30,7 +30,7 @@ instructor and knock out my certificate!
 | Printing medical records                                          | $30                         |
 | USPS Certified Mail, envelope, and postage to send everything in  | $12.70                      |
 | (24hr EEG)                                                        | ($7920)                     |
-| Neuropsychological Evaluation)                                    | $3500                       |
+| Neuropsychological Evaluation                                     | $3500                       |
 | **Total (Estimated)**                                             | (**$13,033.50**)            |
 
 ![](/assets/celebrate.gif)
