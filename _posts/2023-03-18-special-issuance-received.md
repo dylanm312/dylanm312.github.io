@@ -29,8 +29,9 @@ instructor and knock out my certificate!
 | MRI                                                               | Free (thanks to Kaiser)     |
 | Printing medical records                                          | $30                         |
 | USPS Certified Mail, envelope, and postage to send everything in  | $12.70                      |
-| (24hr EEG)                                                        | ($7920)                     |
+| (24hr EEG)                                                        | ($7920)                    |
 | Neuropsychological Evaluation                                     | $3500                       |
-| **Total (Estimated)**                                             | (**$13,033.50**)            |
+| USPS Certified Mail and postage for the EEG                       | $9.25                       |
+| **Total (Estimated)**                                             | (**$13,042.75**)            |
 
 ![](/assets/celebrate.gif)
