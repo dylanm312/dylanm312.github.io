@@ -12,4 +12,4 @@ this may be the last step (though I don't want to jinx it!)
 
 &nbsp;
 
-![](../assets/fingers_crossed.gif)
+![](/assets/fingers_crossed.gif)
