@@ -10,8 +10,8 @@ various life happenings that I may write about from time to time.
 
 # Academic
 
-I'm a soon-to-be-graduate of Cal Poly, San Luis Obispo. I'm finishing up a B.S.
-in Industrial Engineering concurrently with an M.S. in Engineering Management. Though my formal
+I received a B.S. in Industrial Engineering concurrently with an M.S. in
+Engineering Management from Cal Poly, San Luis Obispo. Though my formal
 education is in industrial/quality engineering, my true passion is programming. I'm a self-taught
 developer with most of my experience in web development (case in point: this blog) and Python.
 I'm also currently teaching myself C so I can start to work on some lower-level code as well.
