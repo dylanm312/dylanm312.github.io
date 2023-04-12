@@ -25,6 +25,6 @@ Time to go fly!
 | 24hr EEG                                                          | $697                        |
 | Neuropsychological Evaluation                                     | $3500                       |
 | USPS Certified Mail and postage for the EEG                       | $9.25                       |
-| **Total (Estimated)**                                             | **$5,819.75**               |
+| **Total**                                                         | **$5,819.75**               |
 
 ![](/assets/celebrate.gif)
