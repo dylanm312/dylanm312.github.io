@@ -12,7 +12,7 @@ for the EEG came out to $697 - a $7223 difference!
 
 Time to go fly!
 
-# Total Costs (Estimated)
+# Total Costs (Final)
 
 | Item                                                              | Cost                        |
 | ----------------------------------------------------------------- | --------------------------- |
